@@ -72,5 +72,5 @@ The world first crossed 50% connectivity in 2019.
 
 This reveals the psychological shift toward digital reliance, communication, and global community building.
 <p align="center">
-  <img src="images/my-photo.png" width="400">
+  <img src="https://github.com/TANISHACHAUHAN18173/Our-World-Connected-cisco-networking/blob/main/Screenshot%202025-11-26%20155612.png" width="400">
 </p>
